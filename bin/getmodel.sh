@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-version="0.7.1"
+version="0.9.3"
 dir="deepspeech-${version}-models"
 am="${dir}.pbmm"
 scorer="${dir}.scorer"
