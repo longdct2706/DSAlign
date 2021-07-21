@@ -1,6 +1,6 @@
 six
 sox
-deepspeech-gpu==0.9.3
+deepspeech==0.9.3
 ds-ctcdecoder==0.9.3
 webrtcvad
 textdistance
